@@ -64,7 +64,6 @@ int main()
 						r.pop();
 					}
 				}
-				cout<<"\n";
 		}
 		cout<<"Case "<<i<<":\n";
 		for(int i=0;i<n;i++)
